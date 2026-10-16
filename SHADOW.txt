@@ -1,0 +1,5 @@
+shadow prebuilt repo: setuptools (host)
+  arch package: python-setuptools v84.0.0-1 (Arch Linux extra), py-setuptools v14.0.0_r67-2 (Forgejo ag-ci)
+  api-level: universal (Python library host: setuptools, pkg_resources)
+  layout: .pkg.tar.zst blobs at root; extracted setuptools/ & pkg_resources/ modules; Android.bp providing py-setuptools & setuptools
+  date: 2026-10-16
